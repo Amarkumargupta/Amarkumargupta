@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amarkumargupta
-- 👀 I’m interested in Data Science,M L and A.I.
-- 🌱 I’m currently learning DSA,
+- 👀 I’m interested in AWS Cloud, Devops, Automation, Blockchain,Python 
+- 🌱 I’m currently learning AWS 
 
 
 
