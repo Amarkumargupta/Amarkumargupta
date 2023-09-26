@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amarkumargupta
-- 👀 I’m interested in AWS Cloud, Automation, Python 
-- 🌱 I’m currently learning DevOps 
+- 👀 I’m interested in AWS Cloud, Automation, Python
 
 
 
