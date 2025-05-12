@@ -29,7 +29,6 @@ root@terminal:~$ cat /etc/profile.d/user.sh
 export ROLE="Cloud Engineer & Aspiring DevOps Engineer"
 export EXPERIENCE="2+ years"
 export SPECIALTY="AWS LAMP stack migration"
-export THEME="Terminal visualization with 3D depth effects"
 ```
 
 > Cloud Engineer & Aspiring DevOps Engineer with 2+ years of experience specializing in AWS LAMP stack migration.
@@ -61,8 +60,6 @@ drwxr-xr-x  amar  staff  Mar 2024 ci-cd-pipeline-automation/
   # Reduced deployment time by 75% using GitHub Actions workflows
 drwxr-xr-x  amar  staff  Apr 2024 kubernetes-cluster-management/
   # Orchestrated microservices with Kubernetes for high availability
-drwxr-xr-x  amar  staff  May 2024 terminal-themed-portfolio/
-  # Created interactive personal website with Next.js and terminal UI
 ```
 
 ## `> cat certifications.md`
@@ -77,9 +74,9 @@ drwxr-xr-x  amar  staff  May 2024 terminal-themed-portfolio/
 ## `> echo $CONTACT_INFO`
 ```json
 {
-  "email": "amar.gupta@example.com",
+  "email": "amargupta.mailbox@gmail.com",
   "linkedin": "https://linkedin.com/in/amarkrgupta",
-  "portfolio": "https://amarkrgupta.dev"
+  "portfolio": "https://amarkrgupta.github.io"
 }
 ```
 
