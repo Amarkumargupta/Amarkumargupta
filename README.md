@@ -59,22 +59,7 @@ AI & Future Tech:
   - AI-Powered DevOps ⭐⭐⭐⭐
   - ML/AI Infrastructure ⭐⭐⭐
 ```
-Cloud:
-  - AWS (Certified)
-  - GCP (Certified)
-  - Infrastructure as Code
-  - CI/CD Pipelines
-  - Kubernetes
-  - Docker
 
-Development:
-  - JavaScript/TypeScript
-  - Next.js
-  - React
-  - Node.js
-  - Python
-  - Bash Scripting
-```
 
 ## `> ls -la projects/`
 ```bash
