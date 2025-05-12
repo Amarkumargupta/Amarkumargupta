@@ -75,7 +75,7 @@ drwxr-xr-x  amar  staff  Apr 2024 kubernetes-cluster-management/
 ```json
 {
   "email": "amargupta.mailbox@gmail.com",
-  "linkedin": "https://linkedin.com/in/amarkrgupta",
+  "linkedin": "https://linkedin.com/in/amar-kr-gupta",
   "portfolio": "https://amarkrgupta.github.io"
 }
 ```
