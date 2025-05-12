@@ -35,6 +35,30 @@ export SPECIALTY="AWS LAMP stack migration"
 
 ## `> cat skills.txt`
 ```yaml
+
+Cloud:
+  - AWS (Certified) ⭐⭐⭐⭐⭐
+  - GCP (Certified) ⭐⭐⭐⭐
+  - Infrastructure as Code ⭐⭐⭐⭐
+  - CI/CD Pipelines ⭐⭐⭐⭐
+  - Kubernetes ⭐⭐⭐⭐
+  - Docker ⭐⭐⭐⭐
+
+Development:
+  - JavaScript/TypeScript ⭐⭐⭐⭐
+  - Next.js ⭐⭐⭐⭐
+  - React ⭐⭐⭐⭐
+  - Node.js ⭐⭐⭐⭐
+  - Python ⭐⭐⭐⭐
+  - Bash Scripting ⭐⭐⭐⭐
+
+AI & Future Tech:
+  - Generative AI Implementation ⭐⭐⭐⭐
+  - LLM Fine-tuning & Prompting ⭐⭐⭐
+  - Agentic Development ⭐⭐⭐
+  - AI-Powered DevOps ⭐⭐⭐⭐
+  - ML/AI Infrastructure ⭐⭐⭐
+```
 Cloud:
   - AWS (Certified)
   - GCP (Certified)
