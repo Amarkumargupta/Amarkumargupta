@@ -41,19 +41,19 @@ Cloud:
   - GCP (Certified) ⭐⭐⭐⭐
   - Infrastructure as Code ⭐⭐⭐⭐
   - CI/CD Pipelines ⭐⭐⭐⭐
-  - Kubernetes ⭐⭐⭐⭐
+  - Kubernetes ⭐⭐⭐
   - Docker ⭐⭐⭐⭐
 
 Development:
-  - JavaScript/TypeScript ⭐⭐⭐⭐
-  - Next.js ⭐⭐⭐⭐
-  - React ⭐⭐⭐⭐
-  - Node.js ⭐⭐⭐⭐
+  - JavaScript/TypeScript ⭐⭐
+  - Next.js ⭐⭐⭐
+  - React ⭐⭐
+  - Node.js ⭐
   - Python ⭐⭐⭐⭐
-  - Bash Scripting ⭐⭐⭐⭐
+  - Bash Scripting ⭐⭐⭐
 
 AI & Future Tech:
-  - Generative AI Implementation ⭐⭐⭐⭐
+  - Generative AI Implementation ⭐⭐⭐
   - LLM Fine-tuning & Prompting ⭐⭐⭐
   - Agentic Development ⭐⭐⭐
   - AI-Powered DevOps ⭐⭐⭐⭐
